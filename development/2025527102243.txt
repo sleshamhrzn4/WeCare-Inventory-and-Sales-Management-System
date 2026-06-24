@@ -1,0 +1,17 @@
+----------Purchased Order Bill--------
+Supplier's name: sdfghj
+Supplier's phone number: 1234567890
+------------------------------
+Product Details:
+------------------------------
+Product:     Vitamin C Serum
+Quantity: 34
+Unit Price: 1000
+Subtotal: 34000
+------------------------------
+Product:     Sunscreen
+Quantity: 6
+Unit Price: 700
+Subtotal: 4200
+------------------------------
+Grand Total: 38200

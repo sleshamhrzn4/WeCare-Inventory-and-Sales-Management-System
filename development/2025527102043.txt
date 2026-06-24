@@ -1,0 +1,12 @@
+----------Purchased Order Bill--------
+Supplier's name: ram
+Supplier's phone number: 1234567890
+------------------------------
+Product Details:
+------------------------------
+Product:     Moisturizer
+Quantity: 2
+Unit Price: 2700
+Subtotal: 5400
+------------------------------
+Grand Total: 5400

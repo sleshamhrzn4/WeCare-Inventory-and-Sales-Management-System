@@ -1,0 +1,8 @@
+    Vitamin C Serum,         Garnier,          200,           1000,   France
+    Skin Cleanser,           Cetaphil,         100,           280,    Switzerland
+    Sunscreen,               Aqualogica,       200,           700,    India
+    Moisturizer,             CeraVe   ,        250,           2700,   USA
+    Sunscreen,               Derma Co. ,       125,           1000,   India
+    Skin Cleanser,           Cetaphil ,        100,           950,    USA
+    VitaminC Serum,          Derma Co. ,       200,           1050,   India
+    Face Mask,               Garnier ,         350,           100,    Nepal 

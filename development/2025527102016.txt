@@ -1,0 +1,12 @@
+----------Purchased Order Bill--------
+Customer's name:slesha 1234567890
+Phone number:1234567890
+Product Details:
+Product:     Skin Cleanser
+Quantity: 2
+Free Products:0
+Total Quantity: 2
+Subtotal: 560
+------------------------------
+Grand Total: 560
+------------------------------

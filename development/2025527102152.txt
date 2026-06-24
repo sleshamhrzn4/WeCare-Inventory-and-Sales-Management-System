@@ -1,0 +1,18 @@
+----------Purchased Order Bill--------
+Customer's name:dfghjk
+Phone number:1234567890
+Product Details:
+Product:     Vitamin C Serum
+Quantity: 23
+Free Products:7
+Total Quantity: 30
+Subtotal: 23000
+------------------------------
+Product:     Skin Cleanser
+Quantity: 5
+Free Products:1
+Total Quantity: 6
+Subtotal: 1400
+------------------------------
+Grand Total: 24400
+------------------------------
